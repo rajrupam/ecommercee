@@ -13,6 +13,8 @@ const CategoryPage = ({ shopdatas }) => {
         return <h2>Category Not Found</h2>;
     }
 
+    console.log(selectedCategory,"dhfjsdhjdksh")
+
     return (
         <div>
             
